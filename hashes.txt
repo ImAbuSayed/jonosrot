@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jonosrot
+
+This log tracks the cryptographic history and versioning for the song **Jonosrot** (jonosrot).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T05:26:27.342233 | `v1` | `87c19207c09fa575944ac4daee451ee5444c66d467a3f94592bd78c50b87e5b1` | `16f580f9bf4abfa64280a3a23af0db9b4286cd781ca3bcd987f8add7bd11b4d1` | `2026-05-13_jonosrot-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
