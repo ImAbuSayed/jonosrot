@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jonosrot/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Jonosrot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jonosrot/) |
+| **Get License** | [Get License For Jonosrot](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jonosrot/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তীব্র এই মাতাল রাতে, খুঁজি আমি তোমার শরীর
+> ভেঙে দাও আজ এসো কাছে, মনের সব লাজুক প্রাচীর
+> নিঃশ্বাসে মিশে আছো তুমি, চোখে শুধু তোমারই নেশা
+> কাছে আসার এই তো সময়, এই তো আমার নীরব আশা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
